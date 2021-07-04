@@ -1,0 +1,6 @@
+#Network Manager
+##list nearby networks
+nmcli device wifi list
+
+##Connect to wifi
+nmcli device wifi connect <ssid> password <password>

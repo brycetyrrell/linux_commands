@@ -1,4 +1,4 @@
-#Network Manager
+#NetworkManager
 ##list nearby networks
 nmcli device wifi list
 

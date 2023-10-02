@@ -6,6 +6,6 @@ nmcli device wifi list
 nmcli device wifi connect <ssid> password <password>
 
 ##Arch password error fix
-###reboor on grub press 'e'
+###reboot > on grub press 'e'
 ### add init=/bit/bash at end of line
 passwd <user>
